@@ -2,33 +2,33 @@
     "type": "User Profile",
     "name": "NAmorim",
     "project": "Governance",
-    "id": "b55c7f98-6d6d-4864-a3fb-3a80991227f9",
-    "config": "{\"codeName\":\"NAmorim\",\"signature\":{\"message\":\"NAmorim\",\"messageHash\":\"0xd7fc194bfd83696ca9404e75ac4958a23e7b9204e9cefefd6b6a9d29953ebbaa\",\"v\":\"0x1c\",\"r\":\"0x75dca66bc2c17c4ab410da30e8b1617f2545cdc91ed88e58ca997a5ff2237910\",\"s\":\"0x6efed271714d3d5f91c5f066bd1825b41687d6bc8cb658f14820c9858634c8f8\",\"signature\":\"0x75dca66bc2c17c4ab410da30e8b1617f2545cdc91ed88e58ca997a5ff22379106efed271714d3d5f91c5f066bd1825b41687d6bc8cb658f14820c9858634c8f81c\"}}",
+    "id": "2a885796-53dc-4176-b294-b97c2383c2bf",
+    "config": "{\"codeName\":\"NAmorim\",\"signature\":{\"message\":\"NAmorim\",\"messageHash\":\"0xd7fc194bfd83696ca9404e75ac4958a23e7b9204e9cefefd6b6a9d29953ebbaa\",\"v\":\"0x1b\",\"r\":\"0x7180d189bb19ff735fa2e3c1b7f127abb9cb4b1894aced4399de7a07e97e8ba0\",\"s\":\"0x39d2996debf7e1f99d2b1d1f9c756a87e7729b7578fc768c8de32cb337d38a56\",\"signature\":\"0x7180d189bb19ff735fa2e3c1b7f127abb9cb4b1894aced4399de7a07e97e8ba039d2996debf7e1f99d2b1d1f9c756a87e7729b7578fc768c8de32cb337d38a561b\"}}",
     "userApps": {
         "type": "User Apps",
         "name": "New User Apps",
         "project": "User-Apps",
-        "id": "a1c2cee8-9355-4307-a7f4-737c8d12c082",
+        "id": "4702f1c8-0656-4ff1-818b-91a4c535028e",
         "config": "{}",
         "desktopApps": {
             "type": "Desktop Apps",
             "name": "New Desktop Apps",
             "project": "User-Apps",
-            "id": "bae42ffd-3149-4264-bb74-7a79ef74176a",
+            "id": "e5df20ff-d8c7-4b3a-88f1-d04c68dd72d7",
             "config": "{}",
             "socialTradingDesktopApps": [
                 {
                     "type": "Social Trading Desktop App",
                     "name": "Social Trading Desktop App #1",
                     "project": "User-Apps",
-                    "id": "67a9e741-2b9a-40f5-af3e-f89edfa40642",
+                    "id": "6523336d-80eb-4609-b8d0-0de0a3a76ec3",
                     "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-1\"\n}",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
                         "project": "Governance",
-                        "id": "38add00e-4a31-44eb-9bd4-e14e046919e5",
-                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-1\",\"signature\":{\"message\":\"NAmorim\",\"messageHash\":\"0xd7fc194bfd83696ca9404e75ac4958a23e7b9204e9cefefd6b6a9d29953ebbaa\",\"v\":\"0x1b\",\"r\":\"0x04e0666767b455496115063aecf7bd275e7e9b17b946bd805217629cf2971606\",\"s\":\"0x3a75d2b2c8ac48731c5efa22dc4b552697fec9ba7a2ffc0ee8fa68eb69fcb142\",\"signature\":\"0x04e0666767b455496115063aecf7bd275e7e9b17b946bd805217629cf29716063a75d2b2c8ac48731c5efa22dc4b552697fec9ba7a2ffc0ee8fa68eb69fcb1421b\"}}"
+                        "id": "49a9bf59-9d2c-463d-a314-c0b8565935c1",
+                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-1\",\"signature\":{\"message\":\"NAmorim\",\"messageHash\":\"0xd7fc194bfd83696ca9404e75ac4958a23e7b9204e9cefefd6b6a9d29953ebbaa\",\"v\":\"0x1c\",\"r\":\"0x037b22f6e2fc50127f030249bd1d1c1f5229ff6c405d3dcc6cbb774eebdd712d\",\"s\":\"0x1f045ba764cc6c185338d385b635864e5b4b477603a455c07d17cffeed9f0db4\",\"signature\":\"0x037b22f6e2fc50127f030249bd1d1c1f5229ff6c405d3dcc6cbb774eebdd712d1f045ba764cc6c185338d385b635864e5b4b477603a455c07d17cffeed9f0db41c\"}}"
                     }
                 }
             ]
